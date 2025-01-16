@@ -4,6 +4,7 @@
 
 - [Python Projects](https://github.com/tlamirande1/PythonProjects)
 - [Tableau Projects](https://github.com/tlamirande1/PythonProjects)
+- [LeetCode Profile](https://leetcode.com/u/tlamirande1/)
 
 <h2> 🤳 Connect with me:</h2>
 
