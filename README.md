@@ -3,7 +3,7 @@
 <h2>👨‍💻 Business Analytics Projects:</h2>
 
 
-- [Student Stress Levels Using Python](https://github.com/tlamirande1/Algorithms-Practice)
+- [Python Projects](https://github.com/tlamirande1/Algorithms-Practice)
 
 
 <h2> 🤳 Connect with me:</h2>
