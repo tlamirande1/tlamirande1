@@ -3,7 +3,7 @@
 <h2>👨‍💻 Business Analytics Projects:</h2>
 
 
-- [Python Projects](https://github.com/tlamirande1/Algorithms-Practice)
+- [Python Projects](https://github.com/tlamirande1/PythonProjects)
 
 
 <h2> 🤳 Connect with me:</h2>
