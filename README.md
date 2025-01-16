@@ -3,7 +3,7 @@
 <h2>👨‍💻 Business Analytics Projects:</h2>
 
 - [Python Projects](https://github.com/tlamirande1/PythonProjects)
-- [Tableau Projects](https://github.com/tlamirande1/PythonProjects)
+- [Tableau Projects](https://public.tableau.com/app/profile/trevor.lamirande/vizzes)
 - [LeetCode Profile](https://leetcode.com/u/tlamirande1/)
 
 <h2> 🤳 Connect with me:</h2>
