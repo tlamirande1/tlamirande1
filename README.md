@@ -1,13 +1,12 @@
 # Hi, I'm Trevor! 
 
 ## 💫 About Me:
-I'm currently a student at the University of Wisconsin- Eau Claire majoring in Information Systems and Marketing- Analytics. I'm graduating May 2025, and am currently searching for employment post-graduation.
+I'm currently a senior at the University of Wisconsin- Eau Claire pursuing a double major in Information Systems and Marketing- Analytics. With graduation anticipated in May 2025, I am actively seeking employment opportunities to apply my analytical and technical skills in a data-driven environment post-graduation.
 
 ## 👨‍💻 Business Analytics Projects:
 - [Python Projects](https://github.com/tlamirande1/PythonProjects)
 - [LeetCode Profile (SQL)](https://leetcode.com/u/tlamirande1/)
 - [Tableau Projects](https://public.tableau.com/app/profile/trevor.lamirande/vizzes)
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/trevor-lamirande) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/trevor_lamirande) 
