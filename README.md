@@ -1,4 +1,4 @@
-<p style="text-align: center;">Hi, I'm Trevor! </p>
+
 
 ## 💫 About Me:
 I'm currently a student at the University of Wisconsin- Eau Claire majoring in Information Systems and Marketing- Analytics. I'm graduating May 2025, and am currently searching for employment post-graduation.
