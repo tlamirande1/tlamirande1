@@ -1,7 +1,7 @@
 # Hi, I'm Trevor! 
 
 ## 💫 About Me:
-I'm currently a senior at the University of Wisconsin- Eau Claire pursuing a double major in Information Systems and Marketing- Analytics. With graduation anticipated in May 2025, I am actively seeking employment opportunities to apply my analytical and technical skills in a data-driven environment post-graduation.
+I'm currently a senior at the University of Wisconsin- Eau Claire pursuing a double major in Information Systems and Marketing- Analytics. With graduation anticipated in May 2025, I am actively seeking opportunities to apply my analytical and technical skills in a data-driven environment post-graduation.
 
 ## 👨‍💻 Business Analytics Projects:
 - [Python Projects](https://github.com/tlamirande1/PythonProjects)
