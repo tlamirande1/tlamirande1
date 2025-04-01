@@ -7,7 +7,7 @@ I'm currently a senior at the University of Wisconsin- Eau Claire pursuing a dou
 - [Python Projects](https://github.com/tlamirande1/PythonProjects)
 - [LeetCode Profile (SQL)](https://leetcode.com/u/tlamirande1/)
 - [Tableau Profile](https://public.tableau.com/app/profile/trevor.lamirande/vizzes)
-- [Additional Marketing/IS Projects](https://github.com/tlamirande1/MarketingProjects)
+- [Additional Marketing/IS Projects](https://github.com/tlamirande1/AdditionalProjects)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/trevor-lamirande) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/trevor_lamirande) 
