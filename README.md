@@ -6,7 +6,7 @@ I'm currently a senior at the University of Wisconsin- Eau Claire pursuing a dou
 ## 👨‍💻 Business Analytics Projects:
 - [Python Projects](https://github.com/tlamirande1/PythonProjects)
 - [LeetCode Profile (SQL)](https://leetcode.com/u/tlamirande1/)
-- [Tableau Projects](https://public.tableau.com/app/profile/trevor.lamirande/vizzes)
+- [Tableau Profile](https://public.tableau.com/app/profile/trevor.lamirande/vizzes)
 - [Marketing Projects](https://github.com/tlamirande1/MarketingProjects)
 
 ## 🌐 Socials:
