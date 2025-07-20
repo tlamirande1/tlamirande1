@@ -1,7 +1,7 @@
 # Hi, I'm Trevor! 
 
 ## 💫 About Me:
-I'm a graduate from the University of Wisconsin- Eau Claire with a Bachelors of Business Administration in Information Systems and Marketing- Analytics. I am actively seeking opportunities to apply my analytical and technical skills in a data-driven environment. 
+I'm a graduate from the University of Wisconsin- Eau Claire with a Bachelors of Business Administration in Information Systems and Marketing- Analytics. I am actively seeking opportunities to apply my analytical and technical skills in a data-driven environment. Passionate about traveling, fitness, sports, and family. 
 
 ## 👨‍💻 Business Analytics Projects:
 - [Python Projects](https://github.com/tlamirande1/PythonProjects)
